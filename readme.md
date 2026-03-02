@@ -19,3 +19,5 @@ for reptiles utilizing a Raspberry Pi.
 
 ## Tech Stack
 - Python
+- (Future implementation) SQLite
+- (Future implementation) React.js
